@@ -1,0 +1,11 @@
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\bin\Debug\3_tier_LINQ.exe.config
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\bin\Debug\3_tier_LINQ.exe
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\bin\Debug\3_tier_LINQ.pdb
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\3_tier_LINQ.csprojResolveAssemblyReference.cache
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\_3_tier_LINQ.Form1.resources
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\_3_tier_LINQ.Properties.Resources.resources
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\3_tier_LINQ.csproj.GenerateResource.Cache
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\3_tier_LINQ.csproj.CoreCompileInputs.cache
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\3_tier_LINQ.exe
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\3_tier_LINQ.pdb
+E:\C#\Class\LINQ_DEMO\3_tier_LINQ\3_tier_LINQ\3_tier_LINQ\obj\Debug\_3_tier_LINQ.View.Form2.resources
